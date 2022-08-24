@@ -10,7 +10,7 @@
 
 ![Tithos GitHub stats](https://github-readme-stats.vercel.app/api?username=tithos924&show_icons=true&theme=algolia)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/tithos924/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tithos924&layout=compact)](https://github.com/tithos924/github-readme-stats)
 ## Tecnologias 
 
 
